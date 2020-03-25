@@ -1,0 +1,23 @@
+{
+  "name": "devpardo.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devpardo/devpardo.github.io.git"
+  },
+  "keywords": [
+    "Bryan Pardo Web Developer",
+    "Bryan Pardo Web"
+  ],
+  "author": "Bryan Pardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devpardo/devpardo.github.io/issues"
+  },
+  "homepage": "https://github.com/devpardo/devpardo.github.io#readme"
+}
